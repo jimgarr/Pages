@@ -14,12 +14,12 @@ If I had to rank them on personal preference I would go with this:
 3. Software Engineer
 4. AI Developer
 
-Whenever I start a project, I always make sure to understand what the problem is and how to break it down. 
+I've been playing video games my entire life and its one of my favorite hobbies. I love the creativity and interaction that a video game is able to provide and is a big reason I would like to be a game developer in my future. The game that has really sparked my interest in the field is hollow knight.
 
-**I like this quote from John Johnson:**
+As far as the kind of programmer I am, I'd definetely say I prefer to be organized and plan before I start typing. Whenever I start a project, I always make sure to understand what the problem is and how to break it down. Some of these quotes below really encompass my ethic when programming:
+
+**John Johnson:**
 > “First solve the problem then write the code.”
-
-Some other quotes I think also pertain to my programming strategy:
 
 **John Romero:**
 > “You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity.”
@@ -46,4 +46,8 @@ I still have a lot to learn, especially other programming languages as there are
 - [ ] TypeScript
 
 ## When I'm not Programming
-A _large_ part of my life is my involvement with the D1 Men's Volleyball program here at UCSD. I'm a middle blocker for the team, meaning I'm the one defending the net and leading my team's blocking efforts. 
+A _large_ part of my life is my involvement with the D1 Men's Volleyball program here at UCSD. I'm a middle blocker for the team, meaning I'm the one defending the net and leading my team's blocking efforts. On my [roster page](https://ucsdtritons.com/sports/mens-volleyball/roster/jim-garrison/12826) you can see my personal stats and a small biography.
+
+![Volleyball Picture](VolleyballPic.JPG)
+
+
