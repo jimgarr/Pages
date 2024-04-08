@@ -16,6 +16,8 @@ If I had to rank them on personal preference I would go with this:
 
 I've been playing video games my entire life and its one of my favorite hobbies. I love the creativity and interaction that a video game is able to provide and is a big reason I would like to be a game developer in my future. The game that has really sparked my interest in the field is hollow knight.
 
+![Hollow Knight](https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1200/ncom/software/switch/70010000003208/4643fb058642335c523910f3a7910575f56372f612f7c0c9a497aaae978d3e51)
+
 As far as the kind of programmer I am, I'd definetely say I prefer to be organized and plan before I start typing. Whenever I start a project, I always make sure to understand what the problem is and how to break it down. Some of these quotes below really encompass my ethic when programming:
 
 **John Johnson:**
@@ -49,5 +51,7 @@ I still have a lot to learn, especially other programming languages as there are
 A _large_ part of my life is my involvement with the D1 Men's Volleyball program here at UCSD. I'm a middle blocker for the team, meaning I'm the one defending the net and leading my team's blocking efforts. On my [roster page](https://ucsdtritons.com/sports/mens-volleyball/roster/jim-garrison/12826) you can see my personal stats and a small biography.
 
 ![Volleyball Picture](VolleyballPic.JPG)
+
+When I'm not doing school work or volleyball, I like to spend my free time with friends and going to the beach, painting, or playing a board game together. I'm not the most extroverted person but I do enjoy my time spent with friends and family. 
 
 
